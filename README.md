@@ -144,5 +144,5 @@ MIT License — free to use, modify and distribute.
 
 ## 🌙 Credits
 
-Made with 💙 by [YourName]  
+Made with 💙 by [LunaticUIDevlop]  
 UI Library — Lunatic UI v1.0
